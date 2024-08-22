@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|c:\\users\\bao\\desktop\\no_sql\\doannosql\\doannosql\\views\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\dataaccess\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\dataaccess\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\frm_hopdongbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\frm_hopdongbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\frm_timhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\frm_timhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\frm_searchcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\frm_searchcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\frm_searchcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\frm_searchcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\frm_hopdongbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\frm_hopdongbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\frm_timhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\frm_timhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\search_claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\search_claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\search_claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\search_claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\doannosql\\views\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F01B8BF0-5186-4897-8BC5-1A76F5591180}|DoAnNoSQL\\DoAnNoSQL.csproj|solutionrelative:doannosql\\views\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Transaction.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Transaction.cs [Design]",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Transaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:09:04.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\MainForm.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\MainForm.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswKkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:06:50.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_SearchCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\frm_SearchCustomer.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\frm_SearchCustomer.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\frm_SearchCustomer.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\frm_SearchCustomer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwE8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:09:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_HopDongBH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_HopDongBH.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Frm_HopDongBH.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_HopDongBH.cs [Design]",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Frm_HopDongBH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:27:07.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Models\\Customer.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Models\\Customer.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:49:04.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\MainForm.cs [Design]",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:55:33.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\DataAccess\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\DataAccess\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\DataAccess\\CustomerRepository.cs",
+              "RelativeToolTip": "DoAnNoSQL\\DataAccess\\CustomerRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowDwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:55:03.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frm_TimHD.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_TimHD.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Frm_TimHD.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_TimHD.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Frm_TimHD.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:19:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frm_HopDongBH.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_HopDongBH.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Frm_HopDongBH.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_HopDongBH.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Frm_HopDongBH.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:27:09.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_SearchCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\frm_SearchCustomer.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\frm_SearchCustomer.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\frm_SearchCustomer.cs [Design]",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\frm_SearchCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:00:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_TimHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_TimHD.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Frm_TimHD.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Frm_TimHD.cs [Design]",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Frm_TimHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:09:04.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:59:21.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Customer.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Customer.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Customer.cs [Design]",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:07:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search_Claim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Search_Claim.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Search_Claim.cs",
+              "ToolTip": "D:\\THAM_KHAO\\DoAnNoSQL\\DoAnNoSQL\\Views\\Search_Claim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:00:46.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Search_Claim.cs",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Search_Claim.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Search_Claim.cs",
+              "ToolTip": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Search_Claim.cs",
+              "RelativeToolTip": "DoAnNoSQL\\Views\\Search_Claim.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAA5wGsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:00:54.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Claim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Bao\\Desktop\\No_SQL\\DoAnNoSQL\\DoAnNoSQL\\Views\\Claim.cs",
+              "RelativeDocumentMoniker": "DoAnNoSQL\\Views\\Claim.cs",
+              "ToolTip": "D:\\THAM_KHAO\\DoAnNoSQL\\DoAnNoSQL\\Views\\Claim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:00:30.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
