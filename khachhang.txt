@@ -1,0 +1,81 @@
+{
+    "maDinhDanh": "Mã định danh duy nhất cho khách hàng",
+    "maKhachHang": "Mã khách hàng",
+    "hoVaTen": "Họ và tên đầy đủ của khách hàng",
+    "ngaySinh": "Ngày tháng năm sinh",
+    "gioiTinh": "Giới tính",
+    "diaChi": {
+        "soNhaVaTenDuong": "Số nhà và tên đường",
+        "quanHuyen": "Thành phố",
+        "tinhThanhPho": "Tỉnh/Thành phố",
+        "maBuuDien": "Mã bưu điện",
+        "quocGia": "Quốc gia"
+    },
+    "lienHe": {
+        "soDienThoai": "Số điện thoại",
+        "email": "Địa chỉ email"
+    },
+    "ngheNghiep": {
+        "chucDanh": "Chức danh công việc",
+        "tenCongTy": "Tên công ty",
+        "thuNhapHangNam": "Thu nhập hàng năm"
+    },
+    "thongTinSucKhoe": {
+        "benhLy": ["Bệnh lý 1", "Bệnh lý 2"],
+        "nhomMau": "Nhóm máu",
+        "chieuCao": "Chiều cao (cm)",
+        "canNang": "Cân nặng (kg)"
+    },
+    "hopDongBaoHiem": [
+        {
+            "maHopDong": "Mã hợp đồng bảo hiểm",
+            "loaiHopDong": "Loại hợp đồng bảo hiểm",
+            "ngayBatDau": "Ngày bắt đầu hợp đồng",
+            "ngayKetThuc": "Ngày kết thúc hợp đồng",
+            "phiBaoHiem": "Mức phí bảo hiểm hàng tháng",
+	    "soTienBaoHiem": "Số tiền bảo hiểm"
+            "nguoiThuHuong": [
+                "Người thụ hưởng 1",
+                "Người thụ hưởng 2"
+            ],
+            "daiLy": {
+                "maDaiLy": "Mã đại lý bảo hiểm",
+                "tenDaiLy": "Tên đại lý bảo hiểm",
+                "lienHe": {
+                    "soDienThoai": "Số điện thoại của đại lý",
+                    "email": "Địa chỉ email của đại lý"
+                }
+            }
+        }
+    ],
+    "lichSuGiaoDich": [
+        {
+            "maGiaoDich": "Mã giao dịch",
+            "ngayGiaoDich": "Ngày giao dịch",
+            "soTien": "Số tiền giao dịch",
+            "moTa": "Mô tả giao dịch"
+        }
+    ],
+    "yeuCauBoiThuong": [
+        {
+            "maYeuCau": "Mã yêu cầu bồi thường",
+            "ngayYeuCau": "Ngày yêu cầu",
+            "soTienYeuCau": "Số tiền yêu cầu bồi thường",
+            "trangThai": "Trạng thái yêu cầu",
+            "moTa": "Mô tả yêu cầu"
+        }
+    ],
+    "chiTietQuyenLoi": [
+        {
+            "maQuyenLoi": "Mã quyền lợi bảo hiểm",
+            "loaiQuyenLoi": "Loại quyền lợi",
+            "soTienBaoHiem": "Số tiền bảo hiểm",
+            "dieuKien": "Điều kiện áp dụng"
+        }
+    ],
+    "lienHeKhanCap": {
+        "ten": "Tên người liên hệ",
+        "quanHe": "Quan hệ với khách hàng",
+        "soDienThoai": "Số điện thoại liên hệ"
+    }
+}
