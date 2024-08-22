@@ -5,7 +5,7 @@
 - MongoDB Compass
 - Visual Studio 2022
 ## Cài đặt 
-1. Clone repository này về máy: git clone https://github.com/username/repository-name.git
+1. Clone repository này về máy: git clone [https://github.com/username/repository-name.git](https://github.com/BaoBao3007/Life-Insurance-Management.git)
 2. Mở MongoDB Compass tạo database có tên là QLBaoHiemNhanTho và collection tên là khachhang, sau đó insert dữ liệu từ file khachhang.txt vào.
 3. Mở dự án bằng Visual Studio.
 4. Build và chạy ứng dụng.
